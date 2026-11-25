@@ -1,1 +1,36 @@
+# INDIVIDUAL WEEKLY PROGRESS JOURNAL
 
+**Name:** Anshuman  
+**Roll Number:** 1024031033  
+**Project:** Nursify AI  
+**Duration:** 10 Weeks
+
+**Week 1:**  
+Participated in project selection and requirement gathering. Identified the functional and non-functional requirements of the proposed system.
+
+**Week 2:**  
+Worked on system architecture, database design, entity-relationship diagram and software requirement specifications.
+
+**Week 3:**  
+Set up the backend development environment using Python and FastAPI. Organised the backend into different functional modules.
+
+**Week 4:**  
+Worked on Supabase integration, user authentication, JWT verification and role-based access control.
+
+**Week 5:**  
+Developed backend functionality for patient management, nurse assignments and shift management.
+
+**Week 6:**  
+Worked on REST APIs for creating, storing and retrieving clinical notes from the database.
+
+**Week 7:**  
+Developed patient handoff functionality and implemented the logic for transferring patient responsibility between nurses.
+
+**Week 8:**  
+Worked on doctor alerting, alert acknowledgement and access permissions for nurses and doctors.
+
+**Week 9:**  
+Performed testing of voice note storage, backend API responses and authentication functionality. Identified and resolved backend errors.
+
+**Week 10:**  
+Reviewed backend functionality, contributed to component and deployment diagrams, and assisted in preparing project documentation.
