@@ -1,1 +1,36 @@
+# INDIVIDUAL WEEKLY PROGRESS JOURNAL
 
+**Name:** Harshav Dhawan  
+**Roll Number:** 1024031035  
+**Project:** Nursify AI  
+**Duration:** 10 Weeks
+
+**Week 1:**  
+Researched existing healthcare documentation systems and identified opportunities for using artificial intelligence in nurse handoff management.
+
+**Week 2:**  
+Explored speech-to-text technologies, large language models and external AI APIs suitable for the proposed application.
+
+**Week 3:**  
+Studied Groq Whisper, Sarvam AI and Groq LLM. Analysed their API integration requirements and planned the AI processing workflow.
+
+**Week 4:**  
+Worked on integrating Groq Whisper for converting English voice recordings into clinical text.
+
+**Week 5:**  
+Worked on integrating Sarvam AI for Hindi speech-to-text conversion and multilingual voice note support.
+
+**Week 6:**  
+Integrated Groq LLM for clinical note correction, spelling improvement and organisation of transcribed information.
+
+**Week 7:**  
+Worked on AI-generated handoff summaries and classification of clinical notes into routine details and major decisions.
+
+**Week 8:**  
+Worked on AI safety mechanisms, numerical validation, preservation of original clinical notes and human verification of AI-generated content.
+
+**Week 9:**  
+Performed testing of voice-based clinical notes, including the transcription of vitals and medication information. Documented test results and identified limitations.
+
+**Week 10:**  
+Contributed to project documentation, corrected software engineering diagrams, documented system limitations and prepared the project for evaluation.
